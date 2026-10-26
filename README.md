@@ -62,6 +62,7 @@ to rod C, and the two disks are then rebuilt on top of it.
 
 ```
 START                                   GOAL
+
     ███           │            │            │            │           ███
    █████          │            │            │            │          █████
   ███████         │            │            │            │         ███████
